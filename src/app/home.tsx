@@ -24,7 +24,7 @@ export default function HomePage() {
       <h1 className="text-center text-4xl font-semibold">
         Winter Webhook Proxy
       </h1>
-      <div action="" className="flex flex-col gap-2">
+      <div className="flex flex-col gap-2">
         <div className="flex flex-row gap-2">
           <div className="w-full">
             <label htmlFor="input" className="font-medium">
