@@ -30,7 +30,7 @@ on. When you're making your request to roblox, include this in the body of your 
 
 There is also a convenient web interface to quickly convert links.
 
-### Self-deployment
+### Self-deployment (Docker)
 
 It is possible to self-deploy this project, but it is not recommended unlesss you
 know what you are doing. This guide below is just a quick guide on how to self-deploy
